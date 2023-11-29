@@ -1,9 +1,9 @@
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
-
 <h1 align="center">Hi 👋, I'm Felipe Ferreira</h1>
 <h3 align="center">A passionate full stack and mobile developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeferreirareis1&label=Profile%20views&color=0e75b6&style=flat" alt="felipeferreirareis1" /> </p>
+
+<img src="[https://iili.io/HyiXz8P.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/1200px-Ruby_on_Rails_logo.svg.png)" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> <a href="https://twitter.com/lipferreira19" target="blank"><img src="https://img.shields.io/twitter/follow/lipferreira19?logo=twitter&style=for-the-badge" alt="lipferreira19" /></a> </p>
 

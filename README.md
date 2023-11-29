@@ -1,3 +1,5 @@
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+
 <h1 align="center">Hi 👋, I'm Felipe Ferreira</h1>
 <h3 align="center">A passionate full stack and mobile developer from Brazil</h3>
 

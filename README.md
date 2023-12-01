@@ -1,4 +1,4 @@
-<h1 align="center">Felipe Ferreira</h1>
+<h1 align="center">Felipe Ferreira dos Reis</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipeferreirareis1&label=Profile%20views&color=0e75b6&style=flat" alt="felipeferreirareis1" /> </p>
 
@@ -6,15 +6,13 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipeferreirareis1/)
 
-- 🔭 I’m currently working on **My Personal projects**
+React developer focused on fullstack and mobile development.
 
-- 🌱 I’m currently learning **Ruby, Next, PHP and Java**
-
-- 👨‍💻 All of my projects are available at [https://felipeferreira.netlify.app](https://felipeferreira.netlify.app)
-
-- 📝 I regularly write articles on [tal](tal)
-
-- 📫 How to reach me **felipeferreirareis1@gmail.com**
+### Contacts:<br>
+  :email: felipeferreirareis1@gmail.com <br>
+  :iphone: +55 11 913362244 <br>
+<br>
+Salto, São Paulo;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
